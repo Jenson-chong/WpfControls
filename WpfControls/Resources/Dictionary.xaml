@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:o="http://schemas.microsoft.com/winfx/2006/xaml/presentation/options">
+    <Geometry x:Key="Rotate" o:Freeze="True">
+        M8.85,41a1.51,1.51,0,0,0,1.44-1.06,47.5,47.5,0,0,1,90.43,0A1.51,1.51,0,0,0,102.15,41h3.13a1.52,1.52,0,0,0,1.45-2A53.52,53.52,0,0,0,4.27,39a1.52,1.52,0,0,0,1.45,2Z
+        M102.15,68a1.51,1.51,0,0,0-1.44,1.06,47.5,47.5,0,0,1-90.43,0A1.51,1.51,0,0,0,8.85,68H5.72a1.52,1.52,0,0,0-1.45,2,53.52,53.52,0,0,0,102.45,0,1.52,1.52,0,0,0-1.45-2Z
+    </Geometry>
+</ResourceDictionary>
